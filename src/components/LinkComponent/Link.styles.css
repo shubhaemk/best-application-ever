@@ -1,6 +1,6 @@
 .link-container {
   font-size: inherit;
-  color: cadetblue;
+  color: var(--teal-green);
   text-decoration: none;
 }
 

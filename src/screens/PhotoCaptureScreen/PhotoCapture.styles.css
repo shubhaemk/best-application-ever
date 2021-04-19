@@ -1,0 +1,13 @@
+.photo-camera-container {
+  width: 100%;
+  height: calc(100vh - 7rem);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.photo-camera-container > *:not(:last-child) {
+  margin-bottom: 2rem;
+}

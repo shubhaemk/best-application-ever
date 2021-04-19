@@ -1,0 +1,37 @@
+.form-component-container {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+
+  padding: 0 2rem;
+}
+
+.form-input-container-wrapper {
+  width: 100%;
+}
+
+.form-error-container-wrapper {
+  width: 100%;
+  height: 3rem;
+}
+
+@media (max-width: 850px) {
+  .form-component-container {
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    padding: 0 2rem;
+  }
+
+  .form-input-container-wrapper {
+    width: 40%;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+  }
+}

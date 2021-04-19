@@ -1,0 +1,11 @@
+.button-element {
+  height: 3rem;
+
+  font-size: var(--title-regular);
+  color: var(--teal-green);
+
+  background-color: var(--background-color-regular);
+  border: none;
+
+  padding: 0.5rem;
+}

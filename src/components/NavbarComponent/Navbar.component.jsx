@@ -6,13 +6,13 @@ import { NAVBAR_ITEM_LIST } from "../../services/constant";
 
 import "./Navbar.styles.css";
 
-const NavbarComponent = () => {
+const NavbarComponent = (props) => {
   const { pathname } = useLocation();
   const [currentItem, setCurrentItem] = useState(pathname);
 
   return (
     <div className="navbar-container">
-      {NAVBAR_ITEM_LIST.map(({ id, to, title }) => (
+      {NAVBAR_ITEM_LIST.map(({ id, to, title, extraData }) => (
         <div
           key={id}
           className={`navbar-item ${
@@ -20,7 +20,7 @@ const NavbarComponent = () => {
           }`}
           onClick={() => to !== currentItem && setCurrentItem(to)}
         >
-          <LinkComponent to={to} title={title} />
+          <LinkComponent to={`${to}${extraData || ""}`} title={title} />
         </div>
       ))}
     </div>

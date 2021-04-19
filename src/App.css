@@ -7,3 +7,8 @@
 
   background-color: aliceblue;
 }
+
+.navbar-container {
+  width: 100%;
+  height: 7rem;
+}
