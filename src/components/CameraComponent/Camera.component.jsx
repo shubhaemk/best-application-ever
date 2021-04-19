@@ -28,7 +28,7 @@ const CameraComponent = (props) => {
     })();
 
     return () =>
-      stream.getTracks().forEach((track) => {
+      stream?.getTracks().forEach((track) => {
         track.stop();
       });
   }, [deviceId]);
