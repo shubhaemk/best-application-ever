@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/best-application-ever/static/css/main.42a96163.chunk.css",
-    "main.js": "/best-application-ever/static/js/main.13bf830a.chunk.js",
-    "main.js.map": "/best-application-ever/static/js/main.13bf830a.chunk.js.map",
+    "main.css": "/best-application-ever/static/css/main.771f013b.chunk.css",
+    "main.js": "/best-application-ever/static/js/main.4432ea10.chunk.js",
+    "main.js.map": "/best-application-ever/static/js/main.4432ea10.chunk.js.map",
     "runtime-main.js": "/best-application-ever/static/js/runtime-main.746cb1bb.js",
     "runtime-main.js.map": "/best-application-ever/static/js/runtime-main.746cb1bb.js.map",
     "static/js/2.ea5ab7bd.chunk.js": "/best-application-ever/static/js/2.ea5ab7bd.chunk.js",
     "static/js/2.ea5ab7bd.chunk.js.map": "/best-application-ever/static/js/2.ea5ab7bd.chunk.js.map",
     "index.html": "/best-application-ever/index.html",
-    "static/css/main.42a96163.chunk.css.map": "/best-application-ever/static/css/main.42a96163.chunk.css.map",
+    "static/css/main.771f013b.chunk.css.map": "/best-application-ever/static/css/main.771f013b.chunk.css.map",
     "static/js/2.ea5ab7bd.chunk.js.LICENSE.txt": "/best-application-ever/static/js/2.ea5ab7bd.chunk.js.LICENSE.txt",
     "static/media/best-rolling.d549bac5.svg": "/best-application-ever/static/media/best-rolling.d549bac5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.746cb1bb.js",
     "static/js/2.ea5ab7bd.chunk.js",
-    "static/css/main.42a96163.chunk.css",
-    "static/js/main.13bf830a.chunk.js"
+    "static/css/main.771f013b.chunk.css",
+    "static/js/main.4432ea10.chunk.js"
   ]
 }
