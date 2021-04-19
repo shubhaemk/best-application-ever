@@ -26,6 +26,7 @@ const LabelInputComponent = (props) => {
         id={label}
         ref={InputRef}
         type={inputType}
+        placeholder={inputType === "date" ? "yyyy-mm-dd" : ""}
         value={value}
         onChange={setValueLocal}
         className="label-input-value"
