@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/best-application-ever/static/css/main.889169e6.chunk.css",
-    "main.js": "/best-application-ever/static/js/main.be4f8758.chunk.js",
-    "main.js.map": "/best-application-ever/static/js/main.be4f8758.chunk.js.map",
+    "main.css": "/best-application-ever/static/css/main.5b4f096c.chunk.css",
+    "main.js": "/best-application-ever/static/js/main.6afb8408.chunk.js",
+    "main.js.map": "/best-application-ever/static/js/main.6afb8408.chunk.js.map",
     "runtime-main.js": "/best-application-ever/static/js/runtime-main.746cb1bb.js",
     "runtime-main.js.map": "/best-application-ever/static/js/runtime-main.746cb1bb.js.map",
-    "static/js/2.7a3e400e.chunk.js": "/best-application-ever/static/js/2.7a3e400e.chunk.js",
-    "static/js/2.7a3e400e.chunk.js.map": "/best-application-ever/static/js/2.7a3e400e.chunk.js.map",
+    "static/js/2.ea5ab7bd.chunk.js": "/best-application-ever/static/js/2.ea5ab7bd.chunk.js",
+    "static/js/2.ea5ab7bd.chunk.js.map": "/best-application-ever/static/js/2.ea5ab7bd.chunk.js.map",
     "index.html": "/best-application-ever/index.html",
-    "static/css/main.889169e6.chunk.css.map": "/best-application-ever/static/css/main.889169e6.chunk.css.map",
-    "static/js/2.7a3e400e.chunk.js.LICENSE.txt": "/best-application-ever/static/js/2.7a3e400e.chunk.js.LICENSE.txt",
+    "static/css/main.5b4f096c.chunk.css.map": "/best-application-ever/static/css/main.5b4f096c.chunk.css.map",
+    "static/js/2.ea5ab7bd.chunk.js.LICENSE.txt": "/best-application-ever/static/js/2.ea5ab7bd.chunk.js.LICENSE.txt",
     "static/media/best-rolling.d549bac5.svg": "/best-application-ever/static/media/best-rolling.d549bac5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.746cb1bb.js",
-    "static/js/2.7a3e400e.chunk.js",
-    "static/css/main.889169e6.chunk.css",
-    "static/js/main.be4f8758.chunk.js"
+    "static/js/2.ea5ab7bd.chunk.js",
+    "static/css/main.5b4f096c.chunk.css",
+    "static/js/main.6afb8408.chunk.js"
   ]
 }
