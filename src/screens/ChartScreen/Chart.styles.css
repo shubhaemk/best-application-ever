@@ -27,16 +27,18 @@
     width: 100%;
     height: calc(100vh - 7rem);
     padding: 5rem 3rem;
+
+    overflow-y: scroll;
   }
 
   .chart-setting-container {
     width: 100%;
-    height: 40%;
+    min-height: 50%;
   }
 
   .chart-container-wrapper {
     width: 100%;
-    height: 60%;
+    min-height: 60%;
 
     display: flex;
     justify-content: center;
